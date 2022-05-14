@@ -89,7 +89,7 @@ Test the webpages:
   Once we are done with the dev, prod and Staging deployment. we can see the dns address of load balancer for all the three environments.
   Copy the dns address and paste it in the browser to test the web servers.
   
-Huraah!!!!!!!!!!! We are done !!!! Thanks to this Assignment!!!!!!
+Authors 
+Munish, Krenessa, Rodel, Shahab
 
-
-Authors -  Munish, Krenessa, Rodel, Shahab
+# Special thanks to "Irina Geiman"
